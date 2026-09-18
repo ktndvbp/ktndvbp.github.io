@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ktndvbp.github.io/sitemap.xml
